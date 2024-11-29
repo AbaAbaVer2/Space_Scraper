@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\assets\\buttonpushopendoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|solutionrelative:assets\\buttonpushopendoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|d:\\1study1\\\u4EE3\u7801\\space scraper\\assets\\meteorpistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|solutionrelative:assets\\meteorpistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\assets\\autofindinteractableaffordance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|solutionrelative:assets\\autofindinteractableaffordance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XRLoggingUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XRLoggingUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\assets\\breakable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|solutionrelative:assets\\breakable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\assets\\playsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|solutionrelative:assets\\playsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\assets\\spaceoutsidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|solutionrelative:assets\\spaceoutsidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\assets\\xrsockettargetinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|solutionrelative:assets\\xrsockettargetinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\assets\\disablegrabbinghandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|solutionrelative:assets\\disablegrabbinghandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\assets\\trashcan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|solutionrelative:assets\\trashcan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\assets\\triggerzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB68B9-9234-9197-88C5-29CE6BF165E7}|Assembly-CSharp.csproj|solutionrelative:assets\\triggerzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:35:52.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XRLoggingUtils.cs",
+              "DocumentMoniker": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XRLoggingUtils.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XRLoggingUtils.cs",
+              "ToolTip": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XRLoggingUtils.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XRLoggingUtils.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:56:45.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlaySteps.cs",
+              "DocumentMoniker": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\PlaySteps.cs",
+              "RelativeDocumentMoniker": "Assets\\PlaySteps.cs",
+              "ToolTip": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\PlaySteps.cs",
+              "RelativeToolTip": "Assets\\PlaySteps.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIBQwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:35:05.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpaceOutsideController.cs",
+              "DocumentMoniker": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\SpaceOutsideController.cs",
+              "RelativeDocumentMoniker": "Assets\\SpaceOutsideController.cs",
+              "ToolTip": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\SpaceOutsideController.cs",
+              "RelativeToolTip": "Assets\\SpaceOutsideController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:27:12.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ButtonPushOpenDoor.cs",
+              "DocumentMoniker": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\ButtonPushOpenDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\ButtonPushOpenDoor.cs",
+              "ToolTip": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\ButtonPushOpenDoor.cs",
+              "RelativeToolTip": "Assets\\ButtonPushOpenDoor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:52:36.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "XRSocketTargetInteractor.cs",
+              "DocumentMoniker": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\XRSocketTargetInteractor.cs",
+              "RelativeDocumentMoniker": "Assets\\XRSocketTargetInteractor.cs",
+              "ToolTip": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\XRSocketTargetInteractor.cs",
+              "RelativeToolTip": "Assets\\XRSocketTargetInteractor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T04:29:52.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeteorPistol.cs",
+              "DocumentMoniker": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\MeteorPistol.cs",
+              "RelativeDocumentMoniker": "Assets\\MeteorPistol.cs",
+              "ToolTip": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\MeteorPistol.cs",
+              "RelativeToolTip": "Assets\\MeteorPistol.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:26:47.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoFindInteractableAffordance.cs",
+              "DocumentMoniker": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\AutoFindInteractableAffordance.cs",
+              "RelativeDocumentMoniker": "Assets\\AutoFindInteractableAffordance.cs",
+              "ToolTip": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\AutoFindInteractableAffordance.cs",
+              "RelativeToolTip": "Assets\\AutoFindInteractableAffordance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:21:33.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Breakable.cs",
+              "DocumentMoniker": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\Breakable.cs",
+              "RelativeDocumentMoniker": "Assets\\Breakable.cs",
+              "ToolTip": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\Breakable.cs",
+              "RelativeToolTip": "Assets\\Breakable.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:56:44.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DisableGrabbingHandModel.cs",
+              "DocumentMoniker": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\DisableGrabbingHandModel.cs",
+              "RelativeDocumentMoniker": "Assets\\DisableGrabbingHandModel.cs",
+              "ToolTip": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\DisableGrabbingHandModel.cs",
+              "RelativeToolTip": "Assets\\DisableGrabbingHandModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:18:42.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrashCan.cs",
+              "DocumentMoniker": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\TrashCan.cs",
+              "RelativeDocumentMoniker": "Assets\\TrashCan.cs",
+              "ToolTip": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\TrashCan.cs",
+              "RelativeToolTip": "Assets\\TrashCan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:09:48.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TriggerZone.cs",
+              "DocumentMoniker": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\TriggerZone.cs",
+              "RelativeDocumentMoniker": "Assets\\TriggerZone.cs",
+              "ToolTip": "D:\\1STUDY1\\\u4EE3\u7801\\Space Scraper\\Assets\\TriggerZone.cs",
+              "RelativeToolTip": "Assets\\TriggerZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:56:05.977Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+repository "Space Scraper@tj_d_isastrophe@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
